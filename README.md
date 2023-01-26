@@ -1,6 +1,6 @@
 # TOKOKU - Management Toko
 
-Aplikasi Ini bersifat open source yang dibuat oleh Fajri Rinaldi Chan untuk menyelesaikan project akhir dalam mata kuliah php/Mysql pada program studi pendidikan teknik informatika dan komputer Universitas Islam Negeri Sjech M.Djamil Djambek Bukittinggi 
+Aplikasi Ini bersifat open source yang dibuat oleh Fajri Rinaldi Chan untuk menyelesaikan project akhir dalam mata kuliah php/Mysql pada program studi pendidikan teknik informatika dan komputer Universitas Islam Negeri Sjech M.Djamil Djambek Bukittinggi <br>
 dibuat dengan framework Codeigniter 4
 
 ## Demo
